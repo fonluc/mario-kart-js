@@ -1,6 +1,7 @@
 ### **Mario Kart.JS**
 
-![header.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/b49205d5-4f32-4459-80b2-d0044aba22a4/header.gif)
+![image](https://github.com/user-attachments/assets/2851116e-ca87-4159-a173-6f65e998ff4a)
+
 
 **Objetivo:**
 
@@ -10,7 +11,7 @@ Mario Kart é uma série de jogos de corrida desenvolvida e publicada pela Ninte
 
 Mario: 
 
-![mario.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/80b65d50-96eb-43ba-ac9d-b9e16bd3d704/mario.gif)
+![image](https://github.com/user-attachments/assets/c2dcb9a8-0ddf-4f7f-807c-de1ed75b4add)
 
 Velocidade: 4
 
@@ -20,7 +21,8 @@ Poder: 3
 
 Bowser: 
 
-![bowser.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/12506d0e-59ef-4f7e-88dd-c1639ed327f4/bowser.gif)
+![image](https://github.com/user-attachments/assets/03223026-a370-4785-a31f-52f9098aa8f6)
+
 
 Velocidade: 5
 
@@ -30,7 +32,8 @@ Poder: 5
 
 Peach:
 
-![peach.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/fc77f4b4-8d53-4726-9ad0-17a53152f8d0/peach.gif)
+![image](https://github.com/user-attachments/assets/d68e031b-358e-4536-8c4f-a43f3aa9c067)
+
 
 Velocidade: 3
 
@@ -40,7 +43,8 @@ Poder: 2
 
 Luigi: 
 
-![luigi.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/d39c992b-aa55-409e-9440-46809eb4b990/luigi.gif)
+![image](https://github.com/user-attachments/assets/40229966-3bbc-4120-947a-d848382fec2a)
+
 
 Velocidade: 3
 
@@ -50,7 +54,8 @@ Poder: 4
 
 Yoshi: 
 
-![yoshi.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/1041147c-274f-43db-a07e-51480c1633d8/yoshi.gif)
+![image](https://github.com/user-attachments/assets/b3633e96-d081-4bd2-98ed-87f34ae3e646)
+
 
 Velocidade: 2
 
@@ -60,7 +65,8 @@ Poder: 3
 
 Donkey Kong: 
 
-![dk.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/a15c0f8b-757f-467d-be6a-39fa0c84b8cf/dk.gif)
+![image](https://github.com/user-attachments/assets/9a580d0c-9f56-487b-b823-badc32cde108)
+
 
 Velocidade: 2
 
@@ -87,4 +93,5 @@ O Computador deve receber dois personagens para disputar a corrida em um objeto 
 
 Ao final, vence quem acumulou mais pontos
 
-![Captura de tela 2024-08-02 030934.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f486f4f-3aa4-4184-86ae-03ef4c1d8ba8/5f23b633-73af-4750-a24e-70ba64c49efd/Captura_de_tela_2024-08-02_030934.png)
+![Captura de tela 2024-08-02 030934](https://github.com/user-attachments/assets/d444ddd4-f33a-4850-adc3-763d603f2cd9)
+
